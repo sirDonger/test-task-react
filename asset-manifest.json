@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-task-react/static/css/main.25d8153f.chunk.css",
+    "main.js": "/test-task-react/static/js/main.e7ee030d.chunk.js",
+    "main.js.map": "/test-task-react/static/js/main.e7ee030d.chunk.js.map",
+    "runtime-main.js": "/test-task-react/static/js/runtime-main.5b5a6e82.js",
+    "runtime-main.js.map": "/test-task-react/static/js/runtime-main.5b5a6e82.js.map",
+    "static/js/2.69eaac58.chunk.js": "/test-task-react/static/js/2.69eaac58.chunk.js",
+    "static/js/2.69eaac58.chunk.js.map": "/test-task-react/static/js/2.69eaac58.chunk.js.map",
+    "index.html": "/test-task-react/index.html",
+    "precache-manifest.9f11656c52d27a1a914b57f9644f644a.js": "/test-task-react/precache-manifest.9f11656c52d27a1a914b57f9644f644a.js",
+    "service-worker.js": "/test-task-react/service-worker.js",
+    "static/css/main.25d8153f.chunk.css.map": "/test-task-react/static/css/main.25d8153f.chunk.css.map",
+    "static/js/2.69eaac58.chunk.js.LICENSE.txt": "/test-task-react/static/js/2.69eaac58.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/test-task-react/static/media/Avenir-Light.c888326f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b5a6e82.js",
+    "static/js/2.69eaac58.chunk.js",
+    "static/css/main.25d8153f.chunk.css",
+    "static/js/main.e7ee030d.chunk.js"
+  ]
+}
